@@ -28,13 +28,6 @@ Objective: Understand how to create forms for user input.
 
 Objective: Apply styles to your HTML elements using CSS.
 
-# Submission Guidelines
-
-Fork this repository and clone it to your local machine.
-Create a new branch with your GitHub username (git checkout -b username).
-Complete each task within the provided HTML file (index.html) and CSS file (styles.css).
-Commit your changes and push them to your forked repository.
-Submit a pull request to the main repository for review.
 
 
 Happy hacking! 🚀
